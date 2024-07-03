@@ -31,14 +31,18 @@
 </div>
 
 ###
+###
+<div align="center">
+  <a href="https://app.rocketseat.com.br/me/joao-marcos-03998"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=joao-marcos-03998&type=card" width="280" alt="João Marcos Ferreira Dos Santos Lucas's Rocket ID"/></a>
+</div>
 
+###
 <div align="center">
   <a href="www.linkedin.com/in/joão-marcos-ferreira-dos-santos-lucas-76147a1a2" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 </div>
 
-###
 
 <img src="https://raw.githubusercontent.com/Joao-marcos-f/Joao-marcos-f/output/snake.svg" alt="Snake animation" />
 
